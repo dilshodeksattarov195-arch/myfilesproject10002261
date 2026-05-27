@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydetch",
+        "uuid": 6351149,
+        "checksum": "xvppzh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
